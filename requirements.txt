@@ -6,3 +6,7 @@ lxml
 pillow
 pysocks
 m3u8
+pytz
+flask
+gunicorn
+python-dotenv
